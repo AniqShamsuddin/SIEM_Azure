@@ -1,4 +1,4 @@
-# Home SOC in Microsoft Azure: A Practical Guide
+# Home SOC + SIEM Dashboard in Microsoft Azure: A Practical Guide
 
 This repository demonstrates how to set up a **Home SOC (Security Operations Center) in Microsoft Azure**. We’ll deploy and configure a virtual machine as a honeypot, gather logs in a central repository, and integrate Microsoft Sentinel to capture and analyze real-world attack data.
 
